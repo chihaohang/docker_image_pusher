@@ -5,3 +5,5 @@ xhofe/alist:latest
 linyuan0213/nas-tools
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+
+
