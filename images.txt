@@ -6,4 +6,4 @@ linyuan0213/nas-tools
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 hsuyelin/nas-tools:latest
-
+matt8707/addon-ha-fusion-amd64:2024.6.0
