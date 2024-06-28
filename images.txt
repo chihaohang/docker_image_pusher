@@ -7,3 +7,4 @@ linyuan0213/nas-tools
 --platform=linux/arm64 xiaoyaliu/alist
 hsuyelin/nas-tools:latest
 matt8707/addon-ha-fusion-amd64:2024.6.0
+ghcr.io/home-assistant/amd64-hassio-supervisor:2024.06.2
