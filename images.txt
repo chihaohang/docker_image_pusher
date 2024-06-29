@@ -13,3 +13,4 @@ homeassistant/amd64-addon-whisper:2.1.0
 wghaos/sun-panel:1.5.0
 homeassistant/amd64-addon-ssh:9.14.0
 homeassistant/amd64-addon-mosquitto:6.4.1
+
