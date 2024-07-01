@@ -6,7 +6,7 @@ linyuan0213/nas-tools
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 hsuyelin/nas-tools:latest
-matt8707/addon-ha-fusion-amd64:2024.6.0
+matt8707/addon-ha-fusion-amd64:2024.6.1
 ghcr.io/home-assistant/amd64-hassio-supervisor:2024.06.2
 ghcr.io/home-assistant/amd64-hassio-supervisor:2024.06.4
 homeassistant/amd64-addon-whisper:2.1.0
